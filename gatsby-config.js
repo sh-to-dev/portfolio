@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "SH/TO",
+    siteUrl: `https://portfolio35362.gatsbyjs.io/`
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
